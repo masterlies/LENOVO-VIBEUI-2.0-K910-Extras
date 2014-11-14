@@ -1,0 +1,17 @@
+{
+    "resource_description": "lenovo",
+    "resource_originate": "lenovo",
+    "resource_developer": "lenovo",
+    "resource_designer":"lenovo",
+
+    "resource_version": 1,    
+    "resource_versionname": "1.0",  
+
+    "resource_category": "lockscreen", 
+    "resource_platform" : "phone",
+    
+    "resource_id": 400, 
+    "resource_name": "Fantasy", 
+    "resource_templateversion": 0,
+    "resource_subtype" : "TimeVision"
+}
