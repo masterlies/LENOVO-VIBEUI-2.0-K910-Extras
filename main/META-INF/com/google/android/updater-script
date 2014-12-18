@@ -108,7 +108,7 @@ show_progress(0.200000, 0);
 show_progress(0.200000, 10);
 ui_print("(*) Extract recovery and boot");
 package_extract_file("boot.img", "/dev/block/platform/msm_sdcc.1/by-name/boot");
-#package_extract_file("recovery.img","/dev/block/platform/msm_sdcc.1/by-name/recovery");
+package_extract_file("recovery.img","/dev/block/platform/msm_sdcc.1/by-name/recovery");
 show_progress(0.200000, 0);
 show_progress(0.200000, 10);
 
