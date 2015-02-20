@@ -1,0 +1,14 @@
+{
+"resource_id":0,
+"inPackageRes":"true",
+"resource_category":"systemui",
+"resource_name":"Vibe",
+"resource_version":1,
+"resource_versionname":"v1.0",
+"resource_templateversion":1,
+"resource_description":"lenovo",
+"resource_originate":"lenovo",
+"resource_platform":"phone",
+"resource_developer":"lenovo",
+"resource_designer":"lenovo"
+}
